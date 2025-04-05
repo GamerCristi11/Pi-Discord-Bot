@@ -50,3 +50,8 @@ On discord, in the server with the bot, type:
 ```bash
 !Hello
 ```
+
+---
+
+## My website with all my projects and more:
+<a href="https://code2craft.nekoweb.org/">code2craft.nekoweb.org/</a>
