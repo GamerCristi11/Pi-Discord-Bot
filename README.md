@@ -55,8 +55,7 @@ On discord, in the server with the bot, type:
 
 ## My website with all my projects and more:
 <a href="https://code2craft.nekoweb.org/">code2craft.nekoweb.org/</a>
-
----
+<br>
 
 <a href="https://code2craft.nekoweb.org/">
   <img src="https://code2craft.nekoweb.org/assets/banner-nekoweb.png" alt="Nekoweb Banner">
