@@ -44,3 +44,9 @@ In the terminal, type:
 ```bash
 python3 discordbot.py
 ```
+
+## 8.Test the bot
+On discord, in the server with the bot, type:
+```bash
+!Hello
+```
